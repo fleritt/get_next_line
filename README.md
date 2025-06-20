@@ -1,9 +1,3 @@
-
----
-
-### 📄 **2. get_next_line**
-
-```markdown
 # get_next_line
 
 `get_next_line` is a project focused on file reading in C. The goal is to implement a function that returns a line from a file descriptor each time it is called, handling multiple file descriptors simultaneously and managing memory efficiently.
